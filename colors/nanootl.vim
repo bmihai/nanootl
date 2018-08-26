@@ -9,5 +9,5 @@ hi nOL7 guifg=lightblue     ctermfg=lightblue
 hi nOL8 guifg=violet        ctermfg=magenta
 hi nOL9 guifg=gray          ctermfg=gray
 
-" color for body text
-hi nBT  guifg=green         ctermfg=darkgreen
+" color for subtext
+hi nST  guifg=green         ctermfg=darkgreen

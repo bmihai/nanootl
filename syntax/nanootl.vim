@@ -24,6 +24,6 @@ highlight link nanootl8 nOL8
 highlight link nanootl9 nOL9
 
 syntax match nanootlBT "^\(    \|\t\)* \S.*$"
-highlight link nanootlBT nBT
+highlight link nanootlBT nST
 
 let b:current_syntax = "nanootl"
