@@ -7,4 +7,4 @@ It activates on files with the ".not" extension. Identation can be either tabs- 
 If you would like to see some other feature added please use the issue tracker on https://github.com/bmihai/nanootl.
 
 
-![Screenshot](screenshot.png?raw=true "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/bmihai/nanootl/master/screenshot.png "Example screenshot")
