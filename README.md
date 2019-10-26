@@ -1,10 +1,13 @@
 # Nano Outliner (nanootl)
 
-Vim plugin that colors entire lines by their indentation level. It is like vimoutliner, but 100-1000x faster when opening large files. It lacks any other features besides the very simple line highlighting.
+Vim plugin that colors text lines by their indentation level, with no other features. Like [vimoutliner](https://github.com/vimoutliner/vimoutliner), but 100x to 1000x faster when opening large text files (>1 MB).
 
-It activates on files with the ".not" extension. Identation can be either tabs- or spaces-based (4 per tab), but not a combination of them on a single line. At any indentation level, beginning a line with a single space assigns it a special "subtext" green highlighting.
+Activates on files with the ".not" extension. Identation can be either tabs- or spaces-based (4 per tab).
 
-If you would like to see some other feature added please use the issue tracker on https://github.com/bmihai/nanootl.
+If a line begins with a single space it receives the special "subtext" green highlighting, irrespective of indentation level. An example is the *"sint occaecat..."* line in the screenshot below.
 
+If you'd like other features added propose them at https://github.com/bmihai/nanootl/issues.
 
-![Screenshot](https://raw.githubusercontent.com/bmihai/nanootl/master/screenshot.png "Example screenshot")
+Example screenshot:
+
+![Screenshot](https://raw.githubusercontent.com/bmihai/nanootl/master/screenshot.png)
